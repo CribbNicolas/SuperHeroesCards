@@ -96,8 +96,6 @@ footer > p {
 main {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    margin-top: auto;
-    margin-bottom: auto;
     margin-top: 40px;
 }
 
